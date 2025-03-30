@@ -1,4 +1,4 @@
-# Automated SOC Components Setup Script
+# Soc Setup Script
 
 ## Overview
 
