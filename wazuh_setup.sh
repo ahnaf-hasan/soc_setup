@@ -167,7 +167,7 @@ sleep 60  # Increase sleep time to 60 seconds (1 minute)
 # Run filebeat setup -e
 filebeat setup -e
 
-# Check the exit status of the previous command
+# Check the exit status of the previous command and check it
 if [ $? -eq 0 ]; then
   echo "Filebeat setup completed successfully."
 else
