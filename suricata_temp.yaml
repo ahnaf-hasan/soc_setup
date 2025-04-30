@@ -1,3 +1,4 @@
+
 %YAML 1.1
 ---
 vars:
@@ -468,3 +469,4 @@ rule-files:
   - suricata.rules
 classification-file: /etc/suricata/classification.config
 reference-config-file: /etc/suricata/reference.config
+
