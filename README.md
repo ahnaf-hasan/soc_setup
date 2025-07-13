@@ -51,11 +51,11 @@ If your system doesn't meet these requirements, the script will issue a warning 
    Post-Installation Steps
 6. After successfully running the script and completing the NIDS (Suricata) setup, consider the following post-installation steps:
 
-## Verify NIDS Logs: 
+## Verify NIDS Logs
 Check if logs are getting written to the /var/log/suricata/eve.json file. This is essential for monitoring network traffic.
 Besides, you need to check from kibana if data is being displayed in Suricata Dashboard.
 
-## Wazuh-Agent Installation: 
+## Wazuh-Agent Installation 
 To complete the setup and ensure effective security monitoring, install Wazuh agents on Linux or Windows machines in your network. This allows you to ingest logs into the SIEM, enhancing your security monitoring capabilities.
 
 ## Warnings and Considerations

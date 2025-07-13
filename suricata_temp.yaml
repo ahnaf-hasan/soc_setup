@@ -53,7 +53,7 @@ outputs:
       types:
         - alert:
             tagged-packets: yes
-        - anomaly:
+        - anomaly:            # enable
             enabled: yes
             types:
         - http:
