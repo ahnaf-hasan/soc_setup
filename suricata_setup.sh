@@ -151,3 +151,5 @@ filebeat setup -e
 echo -e "${GREEN}Filebeat is now configured and running.${NC}"
 
 exit 0
+
+#End
