@@ -310,3 +310,5 @@ configure_filebeat
 # Display success message at the end
 log_success "SIEM setup completed successfully!"
 
+#End
+
